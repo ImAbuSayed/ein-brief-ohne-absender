@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-brief-ohne-absender/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ein Brief ohne Absender](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-brief-ohne-absender/) |
+| **Get License** | [Official Music Licensing for Ein Brief ohne Absender](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-brief-ohne-absender/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer Wagen, rote Lichter, Baby, ich bin auf dem Weg.. yeah..
+> Ein Brief ohne Absender, aber du weißt, für wen er steht.. wooh..
+> Deine Blicke sind wie Feuer, machen mich verrückt im Kopf
+> Drück' das Gaspedal durch, Babe, weil ich niemals stopp'
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
