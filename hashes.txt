@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ein Brief ohne Absender
+
+This log tracks the cryptographic history and versioning for the song **Ein Brief ohne Absender** (ein-brief-ohne-absender).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T22:12:13.751526 | `v1` | `dc6f002c9f778f4be6f87059fd2d6787f635fd9c54fdf5112d5d333c9d0bdd84` | `3c4fedaf9af34ef1371861affb2cef8ca123fb304415ef6cde415bfa8d4fbf7e` | `2026-06-30_ein-brief-ohne-absender-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

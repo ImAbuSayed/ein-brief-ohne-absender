@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-brief-ohne-absender/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ein Brief ohne Absender](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-brief-ohne-absender/) |
+| **Get License** | [License this song: Ein Brief ohne Absender](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-brief-ohne-absender/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dc6f002c9f778f4be6f87059fd2d6787f635fd9c54fdf5112d5d333c9d0bdd84` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
